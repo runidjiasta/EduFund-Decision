@@ -1,8 +1,7 @@
 # 🎓 SPK Alokasi Dana Pendidikan Papua Pegunungan (AHP-TOPSIS)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://edufund-decision.streamlit.app/)
-
 Sistem Pendukung Keputusan (SPK) untuk menentukan prioritas alokasi dana bantuan infrastruktur pendidikan di Provinsi Papua Pegunungan menggunakan integrasi metode **Analytic Hierarchy Process (AHP)** dan **TOPSIS**.
+🔗 **Akses Aplikasi:** [edufund-decision.streamlit.app](https://edufund-decision.streamlit.app/)
 
 ## 📌 Latar Belakang
 Provinsi Papua Pegunungan menghadapi tantangan disparitas infrastruktur pendidikan yang kompleks karena faktor geografis ekstrem. Dengan keterbatasan anggaran, diperlukan mekanisme pengambilan keputusan yang objektif agar alokasi dana tepat sasaran pada kabupaten yang paling membutuhkan intervensi segera.
